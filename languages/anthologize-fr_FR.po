@@ -40,32 +40,32 @@ msgstr "Ajouter"
 
 #: anthologize.php:135
 msgid "Add New Part"
-msgstr "Ajouter une Partie"
+msgstr "Ajouter une partie"
 
 #: anthologize.php:136
 msgid "Edit Part"
-msgstr "Editer Partie"
+msgstr "Editer une partie"
 
 #: anthologize.php:137
 #: includes/class-project-organizer.php:109
 msgid "New Part"
-msgstr "Ajouter une Partie"
+msgstr "Ajouter une partie"
 
 #: anthologize.php:138
 msgid "View Part"
-msgstr "Voir Partie"
+msgstr "Voir une partie"
 
 #: anthologize.php:139
 msgid "Search Parts"
-msgstr "Rechercher une Partie"
+msgstr "Rechercher une partie"
 
 #: anthologize.php:140
 msgid "No parts found"
-msgstr "Aucun partie trouvé"
+msgstr "Aucun partie trouvée"
 
 #: anthologize.php:141
 msgid "No parts found in Trash"
-msgstr "Aucun partie trouvé dans le Trash"
+msgstr "Aucune partie trouvée dans la corbeille"
 
 #: anthologize.php:146
 #: includes/class-project-organizer.php:109
@@ -75,86 +75,86 @@ msgstr "Parties"
 #: anthologize.php:159
 msgctxt "post type general name"
 msgid "Library Items"
-msgstr "Contenus de Bibliothèque"
+msgstr "Eléments de la bibliothèque"
 
 #: anthologize.php:160
 msgctxt "post type singular name"
 msgid "Library Item"
-msgstr "Contenu de bibliothèque"
+msgstr "Elément de la bibliothèque"
 
 #: anthologize.php:162
 msgid "Add New Library Item"
-msgstr "Ajouter un Contenu de Bibliothèque"
+msgstr "Ajouter un élément à la bibliothèque"
 
 #: anthologize.php:163
 msgid "Edit Anthologize Library Item"
-msgstr "Editer Contenu Anthologize"
+msgstr "Editer un élément de la bibliothèque Anthologize"
 
 #: anthologize.php:164
 msgid "New Anthologize Library Item"
-msgstr "Nouveau Contenu Anthologize"
+msgstr "Nouveal éléemnt de la bibliothèque Anthologize"
 
 #: anthologize.php:165
 msgid "View Anthologize Library Item"
-msgstr "Voir Contenu Anthologize"
+msgstr "Voir les éléments de la bibliothèque Anthologize"
 
 #: anthologize.php:166
 msgid "Search Library Items"
-msgstr "Rechercher un Contenu de Bibliothèque"
+msgstr "Rechercher un élément de la bibliothèque"
 
 #: anthologize.php:167
 msgid "No library items found"
-msgstr "Aucun contenu de bibliothèque trouvé"
+msgstr "Aucun élément de la bibliothèque trouvé"
 
 #: anthologize.php:168
 msgid "No library items found in Trash"
-msgstr "Aucun contenu de bibliothèque trouvé dans le Trash"
+msgstr "Aucun élément de la bibliothèque trouvé dans la corbeille"
 
 #: anthologize.php:173
 msgid "Library Items"
-msgstr "Contenus de Bibliothèque"
+msgstr "Eléments de la bibliothèque"
 
 #: anthologize.php:186
 msgctxt "post type general name"
 msgid "Imported Items"
-msgstr "Contenu Importé"
+msgstr "Eléments importés"
 
 #: anthologize.php:187
 msgctxt "post type singular name"
 msgid "Imported Item"
-msgstr "Contenu Importés"
+msgstr "Elément importé"
 
 #: anthologize.php:189
 msgid "Add New Imported Item"
-msgstr "Ajouter un Contenu Importé"
+msgstr "Importer un nouvel élément"
 
 #: anthologize.php:190
 msgid "Edit Imported Item"
-msgstr "Editer un Contenu Importé"
+msgstr "Editer un élément importé"
 
 #: anthologize.php:191
 msgid "New Imported Item"
-msgstr "Ajouter un Contenu Importé"
+msgstr "Ajouter un élément importé"
 
 #: anthologize.php:192
 msgid "View Imported Item"
-msgstr "Voir un Contenu Importé"
+msgstr "Voir un élément importé"
 
 #: anthologize.php:193
 msgid "Search Imported Items"
-msgstr "Rechercher un Contenu Importé"
+msgstr "Rechercher un élément importé"
 
 #: anthologize.php:194
 msgid "No imported items found"
-msgstr "Aucun contenu importé  trouvé"
+msgstr "Aucun élément importé trouvé"
 
 #: anthologize.php:195
 msgid "No imported items found in Trash"
-msgstr "Aucun contenu importé trouvé dans le Trash"
+msgstr "Aucun élément importé trouvé dans la corbeille"
 
 #: anthologize.php:200
 msgid "Imported Items"
-msgstr "Contenus Importés"
+msgstr "Eléments importés"
 
 #. #-#-#-#-#  plugin.pot (Anthologize 0.4-alpha)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
@@ -171,22 +171,22 @@ msgstr "Enregistrer"
 #: includes/class-admin-main.php:60
 #: includes/class-admin-main.php:235
 msgid "My Projects"
-msgstr "Mes Projets"
+msgstr "Mes projets"
 
 #: includes/class-admin-main.php:62
 msgid "New Project"
-msgstr "Créer un Projet"
+msgstr "Créer un projet"
 
 #: includes/class-admin-main.php:64
 #: includes/class-export-panel.php:67
 #: includes/class-project-organizer.php:135
 msgid "Export Project"
-msgstr "Exporter Projet"
+msgstr "Exporter un projet"
 
 #: includes/class-admin-main.php:66
 #: includes/class-import-feeds.php:21
 msgid "Import Content"
-msgstr "Importer des Contenus"
+msgstr "Importer des éléments"
 
 #: includes/class-admin-main.php:143
 msgid "Project not found"
@@ -198,7 +198,7 @@ msgstr "Ajouter"
 
 #: includes/class-admin-main.php:240
 msgid "Project Saved"
-msgstr "Projet Enregistré"
+msgstr "Projet enregistré"
 
 #: includes/class-admin-main.php:271
 #: includes/class-new-project.php:116
@@ -211,33 +211,33 @@ msgstr "Créé par"
 
 #: includes/class-admin-main.php:273
 msgid "Number of Parts"
-msgstr "No de Parties"
+msgstr "Numéro de parties"
 
 #: includes/class-admin-main.php:274
 msgid "Number of Items"
-msgstr "No de Contenus"
+msgstr "Numéro des éléments"
 
 #: includes/class-admin-main.php:275
 msgid "Date Created"
-msgstr "Date Créé"
+msgstr "Date de création"
 
 #: includes/class-admin-main.php:276
 msgid "Date Modified"
-msgstr "Date Modifié"
+msgstr "Date de modification"
 
 #: includes/class-admin-main.php:293
 #: includes/class-project-organizer.php:60
 msgid "Project Details"
-msgstr "Details du Projet"
+msgstr "Details du projet"
 
 #: includes/class-admin-main.php:294
 msgid "Manage Parts"
-msgstr "Editer Parties"
+msgstr "Editer les parties"
 
 #: includes/class-admin-main.php:295
 #: includes/class-project-organizer.php:61
 msgid "Delete Project"
-msgstr "Supprimer Projet"
+msgstr "Supprimer le projet"
 
 #: includes/class-admin-main.php:350
 msgid "You haven't created any projects yet."
@@ -253,29 +253,29 @@ msgstr "Enregistrer les changements"
 
 #: includes/class-admin-main.php:489
 msgid "Source feed:"
-msgstr "Fils source:"
+msgstr "Adresse du flux:"
 
 #: includes/class-admin-main.php:493
 msgid "Source URL:"
-msgstr "URL source:"
+msgstr "Adresse URL :"
 
 #: includes/class-admin-main.php:502
 msgid "Date created:"
-msgstr "Date créé:"
+msgstr "Date de création :"
 
 #: includes/class-export-panel.php:63
 #: includes/class-project-organizer.php:52
 msgid "There has been an unexpected error. Please wait while we reload the content."
-msgstr "Erreur: Attendez qu'on recharge les contenus."
+msgstr "Erreur. Merci de bien vouloir patientez pendant le rafraîchissement du contenu."
 
 #: includes/class-export-panel.php:77
 #, fuzzy
 msgid "Select a project..."
-msgstr "Choisir un Projet..."
+msgstr "Choisir un projet..."
 
 #: includes/class-export-panel.php:88
 msgid "Copyright Information"
-msgstr "Informations de copyright"
+msgstr "Information de droits d'auteur"
 
 #: includes/class-export-panel.php:92
 msgid "Year"
@@ -332,11 +332,11 @@ msgstr "Edition"
 
 #: includes/class-export-panel.php:124
 msgid "Add Author(s)"
-msgstr "Ajouter d'Auteur(s)"
+msgstr "Ajouter des auteur(s)"
 
 #: includes/class-export-panel.php:130
 msgid "Next"
-msgstr "Prochaine"
+msgstr "Suivant"
 
 #: includes/class-export-panel.php:143
 msgid "Title"
@@ -344,15 +344,15 @@ msgstr "Titre"
 
 #: includes/class-export-panel.php:148
 msgid "Dedication"
-msgstr "Dédication"
+msgstr "Dédicace"
 
 #: includes/class-export-panel.php:153
 msgid "Acknowledgements"
-msgstr "Signes de reconnaisance"
+msgstr "Remerciements"
 
 #: includes/class-export-panel.php:160
 msgid "Publishing Options"
-msgstr "Réglages de publier"
+msgstr "Options de publication"
 
 #: includes/class-export-panel.php:166
 msgid "ePub"
@@ -360,7 +360,7 @@ msgstr ""
 
 #: includes/class-export-panel.php:168
 msgid "ePub requires the PHP Zip library to be enabled. Contact your hosting provider to enable Zip."
-msgstr "Pour publier en ePub, il faut qu'on charge l'extension PHP 'zip'. Demander à votre hôte."
+msgstr "Pour publier en ePub, l'extension PHP 'zip' est néécessaire. Contacter votre hébergeur."
 
 #: includes/class-export-panel.php:170
 msgid "PDF"
@@ -388,19 +388,19 @@ msgstr ""
 
 #: includes/class-export-panel.php:183
 msgid "Font Size"
-msgstr "Taille de lettres"
+msgstr "Taille de police"
 
 #: includes/class-export-panel.php:195
 msgid "Font Face"
-msgstr "Famille de polices"
+msgstr "Type de police"
 
 #: includes/class-export-panel.php:204
 msgid "Shortcodes"
-msgstr "Shortcodes"
+msgstr "Codes courts"
 
 #: includes/class-export-panel.php:205
 msgid "WordPress shortcodes (such as [caption]) can sometimes cause problems with output formats. If shortcode content shows up incorrectly in your output, choose \"Disable\" to keep Anthologize from processing them."
-msgstr "Shortcodes de WordPress (e.g. [caption]) peut se rendre mal a l'export finale. Si vous avez des problèmes dans le fichier exporté, choisissez \"Désactiver\".  "
+msgstr "Les codes courts de WordPress (e.g. [caption]) peuvent causer des problèmes lors de l'export. Si vous avez des problèmes avec des codes courts dans le fichier exporté, choisissez \"Désactiver\".  "
 
 #: includes/class-export-panel.php:207
 msgid "Enable"
@@ -416,16 +416,16 @@ msgstr "Exporter"
 
 #: includes/class-import-feeds.php:27
 msgid "Want to populate your Anthologize project with content from another web site? Enter the RSS feed address of the site from which you'd like to import and click Go."
-msgstr "Voulez-vous populer peupler votre projet des contenus d'un autre site Web? Entrez l'address RSS du site et cliquez sur Continuer."
+msgstr "Voulez-vous importer dans votre projet des contenus issus d'un autre site Web ? Entrez l'address RSS du site et cliquez sur Continuer."
 
 #: includes/class-import-feeds.php:29
 msgid "Please respect the rights of copyright holders when using this import tool."
-msgstr "S'il vous plaît, respecter les droits de copyright d'auteurs quand vous utilisez cette utile."
+msgstr "S'il vous plaît, respecter les droits d'auteurs quand vous utilisez cet outil."
 
 #: includes/class-import-feeds.php:33
 #: includes/class-import-feeds.php:87
 msgid "Feed URL:"
-msgstr "URL de fils:"
+msgstr "Flux URL:"
 
 #: includes/class-import-feeds.php:36
 #: includes/class-import-feeds.php:90
@@ -434,15 +434,15 @@ msgstr "Continuer"
 
 #: includes/class-import-feeds.php:44
 msgid "Sorry, no items were found. Please try another feed address."
-msgstr "Désolé, on n'a trouvé aucun contenu. Entrez une autre addresse."
+msgstr "Désolé, nous n'avons trouvé aucun élément. Essayez une autre adresse."
 
 #: includes/class-import-feeds.php:57
 msgid "Select the items you'd like to import to your Imported Items library and click Import."
-msgstr "Choisir les contenus que vous voudrez importer a la bibliothèque Contenus Importés et cliquer sur Importer."
+msgstr "Choisir les éléments que vous voulez importer dans la bibliothèque et cliquer sur Importer."
 
 #: includes/class-import-feeds.php:61
 msgid "Feed items:"
-msgstr "Contenus du fils:"
+msgstr "Eléments de flux:"
 
 #: includes/class-import-feeds.php:78
 msgid "Import"
@@ -450,27 +450,27 @@ msgstr "Importer"
 
 #: includes/class-import-feeds.php:83
 msgid "Or enter a new feed URL and click Go to import different feed content."
-msgstr "Ou entrez un nouveau address de fils et cliquez sur Continuer pour importer des contenus diffèrents."
+msgstr "Ou entrez un nouveau flux et cliquez sur Continuer pour importer un flux différent."
 
 #: includes/class-import-feeds.php:123
 msgid "Successfully imported!"
-msgstr "Contenus mportées!"
+msgstr "Import réussi"
 
 #: includes/class-import-feeds.php:127
 msgid "No items found. Please try another feed address."
-msgstr "Nulle contenus trouvés. Essayez une autre adresse de fils."
+msgstr "Aucun élément trouvé. Essayez une autre adresse de flux."
 
 #: includes/class-import-feeds.php:132
 msgid "Back to Anthologize"
-msgstr "Retourner à Anthologize"
+msgstr "Retour"
 
 #: includes/class-new-project.php:109
 msgid "Edit Project"
-msgstr "Editer Projet"
+msgstr "Editer un projet"
 
 #: includes/class-new-project.php:111
 msgid "Add New Project"
-msgstr "Créer Nouveau Projet"
+msgstr "Créer un nouveau projet"
 
 #: includes/class-new-project.php:121
 msgid "Subtitle"
@@ -478,15 +478,15 @@ msgstr "Sous-titre"
 
 #: includes/class-new-project.php:126
 msgid "Author Name <span>(optional)</span>"
-msgstr "Nom d'auteur"
+msgstr "Auteur"
 
 #: includes/class-project-organizer.php:68
 msgid "Select the items you would like to append and click Go."
-msgstr "Choisissez les contenus que vous voulez importer, et cliquez sur Continuer"
+msgstr "Choisissez les éléments que vous voulez ajouter, et cliquez sur Continuer"
 
 #: includes/class-project-organizer.php:77
 msgid "Items"
-msgstr "Contenus"
+msgstr "Eléments"
 
 #: includes/class-project-organizer.php:91
 msgid "Posts"
@@ -494,11 +494,11 @@ msgstr "Articles"
 
 #: includes/class-project-organizer.php:118
 msgid "New Parts"
-msgstr "Nouvelles Parties"
+msgstr "Nouvelle partie"
 
 #: includes/class-project-organizer.php:119
 msgid "Wanna create a new part? You know you do."
-msgstr ""
+msgstr "Voulez-vous créer une nouvelle partie ? "
 
 #: includes/class-project-organizer.php:153
 msgid "Tag"
@@ -510,15 +510,15 @@ msgstr "Catégorie"
 
 #: includes/class-project-organizer.php:159
 msgid "All posts"
-msgstr "Tous articles"
+msgstr "Tous les articles"
 
 #: includes/class-project-organizer.php:174
 msgid "All tags"
-msgstr "Tous mots-clef"
+msgstr "Tous les mots-clef"
 
 #: includes/class-project-organizer.php:178
 msgid "All categories"
-msgstr "Toutes catégories"
+msgstr "Toutes les catégories"
 
 #: includes/class-project-organizer.php:289
 #: includes/class-project-organizer.php:604
@@ -533,7 +533,7 @@ msgstr "Supprimer"
 #: includes/class-project-organizer.php:327
 #, php-format
 msgid "You haven't created any parts yet! Click <a href=\"%1$s\">\"New Part\"</a> to get started."
-msgstr "Vous n'avez pas encore créé de partie! Cliquez sur <a href=\"\"%1$s\">\"Ajouter une Partie\"</a> pour se commencer."
+msgstr "Vous n'avez pas encore créé de partie! Cliquez sur <a href=\"\"%1$s\">\"Ajouter une Partie\"</a> pour commencer."
 
 #: includes/class-project-organizer.php:606
 msgid "Append"
@@ -545,7 +545,7 @@ msgstr ""
 
 #. Description of the plugin/theme
 msgid "Use the power of WordPress to transform your content into a book."
-msgstr "Utilizer le pouvoir de WordPress pour transformer vos contenus en livre."
+msgstr "Utiliser la puissance de WordPress pour transformer vos contenus en livre."
 
 #. Author of the plugin/theme
 msgid "One Week | One Tool"
